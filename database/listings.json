@@ -1,0 +1,26 @@
+{
+	"__v" : 0,
+	"_id" : ObjectId("5a88c251633c3442e40d3ab4"),
+	"color" : "all",
+	"dealer" : ObjectId("5a88bdcb633c3442e40d3ab3"),
+	"dealer_id" : "5a88bdcb633c3442e40d3ab3",
+	"miles_per_year" : 5000,
+	"model_id" : "1",
+	"money_down" : 500,
+	"monthly_lease_price" : 5000,
+	"term_of_lease" : 12,
+	"vin_number" : "6323"
+},
+{
+	"__v" : 0,
+	"_id" : ObjectId("5a898d29ecbb0bc76cf32d23"),
+	"color" : "all",
+	"dealer" : ObjectId("5a88bdcb633c3442e40d3ab3"),
+	"dealer_id" : "5a88bdcb633c3442e40d3ab3",
+	"miles_per_year" : 5000,
+	"model_id" : "8",
+	"money_down" : 500,
+	"monthly_lease_price" : 5000,
+	"term_of_lease" : 12,
+	"vin_number" : "8797"
+},

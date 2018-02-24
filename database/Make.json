@@ -1,0 +1,30 @@
+{
+	"_id" : ObjectId("5a87ebb36ce3affd6ba5dc7d"),
+	"logo" : "aston.png",
+	"make_id" : "1",
+	"name" : "Aston"
+},
+{
+	"_id" : ObjectId("5a87ebb46ce3affd6ba5dc7e"),
+	"logo" : "ford.png",
+	"make_id" : "2",
+	"name" : "Ford"
+},
+{
+	"_id" : ObjectId("5a87ebb46ce3affd6ba5dc7f"),
+	"logo" : "kia.png",
+	"make_id" : "3",
+	"name" : "KiA"
+},
+{
+	"_id" : ObjectId("5a87ebb46ce3affd6ba5dc80"),
+	"logo" : "benz.png",
+	"make_id" : "4",
+	"name" : "Benz"
+},
+{
+	"_id" : ObjectId("5a87ebb46ce3affd6ba5dc81"),
+	"logo" : "hyundai.png",
+	"make_id" : "5",
+	"name" : "Hyundai"
+},

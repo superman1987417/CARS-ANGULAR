@@ -1,0 +1,6 @@
+mongoimport -d cars -c dealers C:\Users\Win10\CAR(angular)\car-project\database\dealers.json
+
+
+
+
+mongod.exe --dbpath C:\Users\Win10\CAR(angular)\car-project\database

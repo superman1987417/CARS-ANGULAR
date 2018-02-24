@@ -1,0 +1,80 @@
+{
+	"_id" : ObjectId("5a88c112f4b0074774c4a750"),
+	"image_original" : "model1.jpg",
+	"make_id" : "1",
+	"model_id" : "1",
+	"name" : "Elantra",
+	"type" : "e356a"
+},
+{
+	"_id" : ObjectId("5a88c113f4b0074774c4a751"),
+	"image_original" : "model1.jpg",
+	"make_id" : "1",
+	"model_id" : "2",
+	"name" : "sokarte",
+	"type" : "e356a"
+},
+{
+	"_id" : ObjectId("5a88c113f4b0074774c4a752"),
+	"image_original" : "model1.jpg",
+	"make_id" : "2",
+	"model_id" : "3",
+	"name" : "kuan",
+	"type" : "e356a"
+},
+{
+	"_id" : ObjectId("5a88c113f4b0074774c4a753"),
+	"image_original" : "model1.jpg",
+	"make_id" : "2",
+	"model_id" : "4",
+	"name" : "kungka",
+	"type" : "e356a"
+},
+{
+	"_id" : ObjectId("5a88c113f4b0074774c4a754"),
+	"image_original" : "model1.jpg",
+	"make_id" : "3",
+	"model_id" : "5",
+	"name" : "sinjen",
+	"type" : "e356a"
+},
+{
+	"_id" : ObjectId("5a88c113f4b0074774c4a755"),
+	"image_original" : "model1.jpg",
+	"make_id" : "3",
+	"model_id" : "6",
+	"name" : "oxana",
+	"type" : "e356a"
+},
+{
+	"_id" : ObjectId("5a88c113f4b0074774c4a756"),
+	"image_original" : "model1.jpg",
+	"make_id" : "4",
+	"model_id" : "7",
+	"name" : "roser",
+	"type" : "e356a"
+},
+{
+	"_id" : ObjectId("5a88c113f4b0074774c4a757"),
+	"image_original" : "model1.jpg",
+	"make_id" : "4",
+	"model_id" : "8",
+	"name" : "watar",
+	"type" : "e356a"
+},
+{
+	"_id" : ObjectId("5a88c113f4b0074774c4a758"),
+	"image_original" : "model1.jpg",
+	"make_id" : "5",
+	"model_id" : "9",
+	"name" : "werser",
+	"type" : "e356a"
+},
+{
+	"_id" : ObjectId("5a88c113f4b0074774c4a759"),
+	"image_original" : "model1.jpg",
+	"make_id" : "5",
+	"model_id" : "10",
+	"name" : "kanter",
+	"type" : "e356a"
+},

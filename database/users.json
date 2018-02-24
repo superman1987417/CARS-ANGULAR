@@ -1,0 +1,9 @@
+{
+	"__v" : 0,
+	"_id" : ObjectId("5a84b81fdf2aedf8916f8f46"),
+	"email" : "jhmun216@gmail.com",
+	"first_name" : "james",
+	"last_name" : "herald",
+	"mobile_no" : "22455",
+	"password" : "ea67bb04546f5f33b1fa03788d958352"
+},
